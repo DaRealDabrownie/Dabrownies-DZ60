@@ -1,5 +1,7 @@
 # Dabrownies DZ60 QMK Keymap
 
+[keymap.c](keymap.c)
+
 **Base Layer**
 ![base layer](https://github.com/user-attachments/assets/6be0b69a-d1c1-45df-83fa-b92882482f87)
 
