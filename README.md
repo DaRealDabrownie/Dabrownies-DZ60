@@ -3,7 +3,7 @@
 [keymap.c](keymap.c)
 
 **Base Layer**
-![base layer](doc/base layer.png)
+![base layer](doc/baselayer.png)
 
 **Fn1 Layer**
 ![Fn1 Layer](https://github.com/user-attachments/assets/eacd68d4-6198-4973-ab26-6f95e1c8c9a6)
